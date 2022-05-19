@@ -1,15 +1,3 @@
-## 代码模板
+## 使用滴滴 booster 实现的简易版 Firebase Pref 接口监控
 
-#### 修改模板
-
-```
-1. <string name="app_name">your_name</string>
-
-2. rootProject.name = "your_name"
-
-3. applicationId "com.example.your_name"
-
-4. rename package: your_name
-
-5. 最后修改项目文件夹名称
-```
+- 修改 `OkHttpCall` 的 `execute` 方法和 `enqueue` 方法字节码

@@ -1,2 +1,2 @@
-rootProject.name = "your_name"
+rootProject.name = "firebase-pref"
 include ':app'
